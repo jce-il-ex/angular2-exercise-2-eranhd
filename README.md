@@ -1,5 +1,9 @@
+this is my app
+#https://ex-2-b7914.firebaseapp.com/
+
 #Submission date:
 14/03/2017
+
 
 Sumbission rules:
 
